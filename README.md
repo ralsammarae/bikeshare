@@ -31,6 +31,3 @@ The program was written using:
 * [The Python Standard Library](https://docs.python.org/3/library/)
 * [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
 * [Stack Overflow](https://stackoverflow.com)
-
-Ramy Alsammarae
-MIT License
